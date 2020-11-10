@@ -18,7 +18,7 @@
 
 ## ✉ Contact
 **📧 IZAY01@qq.com、IZAYOInt0x80@gmail.com<br/>
-👓 izayoi.cn<br/>**
+👓 [izayoi.cn](izayoi.cn)<br/>**
 
 </div>
 
