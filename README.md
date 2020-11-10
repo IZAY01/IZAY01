@@ -17,7 +17,7 @@
 🎵 Trance、JRock、Electronic rock、Futurebass<br/>**
 
 ## ✉ Contact
-**👓 [izayoi.cn](izayoi.cn)<br/>
+**👓 [izayoi.cn](http://izayoi.cn)<br/>
 📧 IZAY01@qq.com、IZAYOInt0x80@gmail.com<br/>**
 
 </div>
