@@ -1,7 +1,7 @@
 <div align="center">
 
-# IZAYOI is here 🤔
-
+# IZAYOI is here 🧐
+👇👇👇
 </div>
 
 <br/>
@@ -15,8 +15,8 @@
 🎵 Trance、JRock、Electronic rock、Futurebass<br/>
 
 ## ✉ Contact
-📧 IZAY01@qq.com、IZAYOInt0x80@gmail.com
-👓 izayoi.cn
+📧 IZAY01@qq.com、IZAYOInt0x80@gmail.com<br/>
+👓 izayoi.cn<br/>
 
 </div>
 
