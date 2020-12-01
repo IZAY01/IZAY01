@@ -13,7 +13,7 @@
 ## 🏷 Tag
 **💻  AMD yes、Archlinux、KDE、VIM<br/>
 🐞  C、C++、Python、Rust<br/>
-⌨ CTF、PWN、Software security<br/>
+⌨ CTF、PWN、Software security、Firmware security<br/>
 🎵 Trance、JRock、Electronic rock、Futurebass<br/>**
 
 ## ✉ Contact
