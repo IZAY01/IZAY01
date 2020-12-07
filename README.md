@@ -14,7 +14,11 @@
 <br>
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white)
+![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-%231793D1.svg?&style=for-the-badge&logo=kde&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
+
+<br>
+![Vim](https://img.shields.io/badge/Vim-019733.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
