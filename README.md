@@ -4,10 +4,8 @@
 
 **🙈 Wow! What are you browsing**
 
-<br/>
 ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2b%2b&logoColor=white)
-<br/>
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -30,8 +28,10 @@
 
 </div>
 
-<br/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
+<br/>
+<div align="center">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<div/>
 
 
