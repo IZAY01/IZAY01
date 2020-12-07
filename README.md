@@ -1,6 +1,6 @@
 <div align="center">
   
-# IZAYOI is here 🧐
+# **IZAYOI is here 🧐**
 
 **🙈 Wow! What are you browsing**
 
@@ -32,8 +32,8 @@
 🎵 Trance、JRock、Electronic rock、Futurebass<br/>**
 
 ## ✉ Contact
-**👓 [izayoi.cn](http://izayoi.cn)<br/>
-📧 IZAY01@qq.com、IZAYOInt0x80@gmail.com<br/>**
+[![IZAYOINT0X80@GMAIL.COM)](https://img.shields.io/badge/email-izayoint0x80@gmail.com-blueviolet?style=for-the-badge&logo=gmail&color=d14836)][email]
+[![IZAYOI.CN](https://img.shields.io/badge/site-izayoi.cn-blueviolet?style=for-the-badge&logo=vercel&color=000000)][website]
 
 </div>
 
