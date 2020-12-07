@@ -43,4 +43,4 @@
 <div/>
 
 [email]: mailto:izayoint0x80
-[site]: izayoi.cn
+[site]: http://izayoi.cn
