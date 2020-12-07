@@ -15,6 +15,8 @@
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+<br>
+
 ## Contact
 
 [![EMAIL](https://img.shields.io/badge/email-izayoint0x80@gmail.com-blueviolet?style=for-the-badge&logo=gmail&color=d14836)][email]
@@ -24,15 +26,9 @@
 ![QQ](https://img.shields.io/badge/QQ-1906826229-blueviolet?style=for-the-badge&logo=tencent%20qq&color=eb1923)
 ![WeChat](https://img.shields.io/badge/WeChat-I2ZAY01-blueviolet?style=for-the-badge&logo=wechat&color=7bb32e)
 
-</div>
-
-
 <br>
-
-
+ 
 ## State
-
-<div align="center">
 
 ![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
