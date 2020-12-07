@@ -27,8 +27,8 @@
 
 ## ✉ Contact
 
-![IZAYOINT0X80@GMAIL.COM)](https://img.shields.io/badge/email-izayoint0x80@gmail.com-blueviolet?style=for-the-badge&logo=gmail&color=d14836)
-![izayoi.cn](https://img.shields.io/badge/site-izayoi.cn-blueviolet?style=for-the-badge&logo=vercel&color=000000)
+[![IZAYOINT0X80@GMAIL.COM)](https://img.shields.io/badge/email-izayoint0x80@gmail.com-blueviolet?style=for-the-badge&logo=gmail&color=d14836)][email]
+[![IZAYOI.CN](https://img.shields.io/badge/site-izayoi.cn-blueviolet?style=for-the-badge&logo=vercel&color=000000)][site]
 
 </div>
 
@@ -36,10 +36,11 @@
 <br/>
 
 
-<div align="center">
+<div align="left">
   
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 <div/>
 
-
+[email]: mailto:izayoint0x80
+[site]: izayoi.cn
