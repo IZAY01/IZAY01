@@ -1,6 +1,6 @@
 <div align="center">
   
-# **IZAYOI is here 🧐**
+# IZAYOI is here 🧐
 
 **🙈 Wow! What are you browsing**
 
@@ -15,7 +15,7 @@
 ![AMD](https://img.shields.io/badge/AMD%20yes!-ed1c24.svg?&style=for-the-badge&logo=amd&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -32,8 +32,9 @@
 🎵 Trance、JRock、Electronic rock、Futurebass<br/>**
 
 ## ✉ Contact
+
 [![IZAYOINT0X80@GMAIL.COM)](https://img.shields.io/badge/email-izayoint0x80@gmail.com-blueviolet?style=for-the-badge&logo=gmail&color=d14836)][email]
-[![IZAYOI.CN](https://img.shields.io/badge/site-izayoi.cn-blueviolet?style=for-the-badge&logo=vercel&color=000000)][website]
+[![izayoi.cn](https://img.shields.io/badge/site-izayoi.cn-blueviolet?style=for-the-badge&logo=vercel&color=000000)][website]
 
 </div>
 
