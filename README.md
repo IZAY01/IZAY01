@@ -36,7 +36,7 @@
 
 <br>
  
-## STATE
+## STATUS
 
 ![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
