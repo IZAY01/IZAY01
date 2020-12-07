@@ -12,7 +12,7 @@
 ![Shell Script](https://img.shields.io/badge/shell_script%20-5d87bf.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?&style=for-the-badge&logo=arch-linux&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-%231793D1.svg?&style=for-the-badge&logo=kde&logoColor=white)
-![AMD](https://img.shields.io/badge/AMD yes!-1dec24.svg?&style=for-the-badge&logo=amd&logoColor=white)
+![AMD](https://img.shields.io/badge/AMD%20yes!-ed1c24.svg?&style=for-the-badge&logo=amd&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
