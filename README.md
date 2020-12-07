@@ -6,7 +6,7 @@
 [![SITE](https://img.shields.io/badge/site-izayoi.cn-blueviolet?style=for-the-badge&logo=vercel&color=000000)][site]
 [![BILIBILI](https://img.shields.io/badge/bilibili-%E4%BE%9D%E6%89%8E%E8%8D%AF%E5%8C%BB-blueviolet?style=for-the-badge&logo=bilibili&color=f48fb1)][bilibili]
 [![ZHIHU](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-IZAYOI-blueviolet?style=for-the-badge&logo=zhihu&color=0084ff)][zhihu]
-![QQ](https://img.shields.io/badge/QQ-1906826229-blueviolet?style=for-the-badge&logo=tencent%20qq&color=eb1923)
+![QQ](https://img.shields.io/badge/QQ-1906826229-blueviolet?style=for-the-badge&logo=tencent%20qq&color=4fc3f7)
 ![WeChat](https://img.shields.io/badge/WeChat-I2ZAY01-blueviolet?style=for-the-badge&logo=wechat&color=7bb32e)
 
 <br>
