@@ -9,9 +9,13 @@
 ![QQ](https://img.shields.io/badge/QQ-1906826229-blueviolet?style=for-the-badge&logo=tencent%20qq&color=eb1923)
 ![WeChat](https://img.shields.io/badge/WeChat-I2ZAY01-blueviolet?style=for-the-badge&logo=wechat&color=7bb32e)
 
-- 🙈 ![label](https://img.shields.io/badge/-%E5%AE%87%E5%AE%99%E6%9C%BA%E4%B8%93%E4%B8%9A%E5%9C%A8%E8%AF%BB-blue)、![label](https://img.shields.io/badge/-%E9%80%80%E5%BD%B9%20CTFer-gray)、![label](https://img.shields.io/badge/-%E7%94%B5%E5%AD%90%E9%9F%B3%E4%B9%90%E4%B8%8E%E6%91%87%E6%BB%9A%E7%88%B1%E5%A5%BD%E8%80%85-red)、![label](https://img.shields.io/badge/-%E5%8D%8A%E9%80%80%E4%BC%91%E5%9E%83%E6%9C%BA%E4%BD%AC-yellow)、![label](https://img.shields.io/badge/-%E6%95%B0%E7%A0%81%E7%88%B1%E5%A5%BD%E8%80%85-lightgrey)
-- ⌨ 试图编曲中、试图为开源社区贡献代码中、试图持续阅读中、试图掌控正循环中……
-- 🎵 Trance、Rock、Future Bass
+<br>
+
+🙈 ![label](https://img.shields.io/badge/-%E5%AE%87%E5%AE%99%E6%9C%BA%E4%B8%93%E4%B8%9A%E5%9C%A8%E8%AF%BB-blue)、![label](https://img.shields.io/badge/-%E9%80%80%E5%BD%B9%20CTFer-gray)、![label](https://img.shields.io/badge/-%E7%94%B5%E5%AD%90%E9%9F%B3%E4%B9%90%E4%B8%8E%E6%91%87%E6%BB%9A%E7%88%B1%E5%A5%BD%E8%80%85-red)、![label](https://img.shields.io/badge/-%E5%8D%8A%E9%80%80%E4%BC%91%E5%9E%83%E6%9C%BA%E4%BD%AC-yellow)、![label](https://img.shields.io/badge/-%E6%95%B0%E7%A0%81%E7%88%B1%E5%A5%BD%E8%80%85-lightgrey)
+
+⌨ 试图编曲中、试图为开源社区贡献代码中、试图持续阅读中、试图掌控正循环中……
+
+🎵 Trance、Rock、Future Bass
 
 <br>
 
