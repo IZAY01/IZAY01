@@ -24,17 +24,11 @@
 
 
 <div align="center">
-  
-## 🏷 Tag
-**💻  AMD yes、Archlinux、KDE、VIM<br/>
-🐞  C、C++、Python、Rust<br/>
-⌨ CTF、PWN、Software security、Firmware security<br/>
-🎵 Trance、JRock、Electronic rock、Futurebass<br/>**
 
 ## ✉ Contact
 
-[![IZAYOINT0X80@GMAIL.COM)](https://img.shields.io/badge/email-izayoint0x80@gmail.com-blueviolet?style=for-the-badge&logo=gmail&color=d14836)][email]
-[![izayoi.cn](https://img.shields.io/badge/site-izayoi.cn-blueviolet?style=for-the-badge&logo=vercel&color=000000)][website]
+![IZAYOINT0X80@GMAIL.COM)](https://img.shields.io/badge/email-izayoint0x80@gmail.com-blueviolet?style=for-the-badge&logo=gmail&color=d14836)
+![izayoi.cn](https://img.shields.io/badge/site-izayoi.cn-blueviolet?style=for-the-badge&logo=vercel&color=000000)
 
 </div>
 
