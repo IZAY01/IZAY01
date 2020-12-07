@@ -17,6 +17,15 @@
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+**Contact me**
+
+[![EMAIL](https://img.shields.io/badge/email-izayoint0x80@gmail.com-blueviolet?style=for-the-badge&logo=gmail&color=d14836)][email]
+[![SITE](https://img.shields.io/badge/site-izayoi.cn-blueviolet?style=for-the-badge&logo=vercel&color=000000)][site]
+[![BILIBILI](https://img.shields.io/badge/bilibili-%E4%BE%9D%E6%89%8E%E8%8D%AF%E5%8C%BB-blueviolet?style=for-the-badge&logo=bilibili&color=f48fb1)][bilibili]
+[![ZHIHU](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-IZAYOI-blueviolet?style=for-the-badge&logo=zhihu&color=0084ff)][zhihu]
+![QQ](https://img.shields.io/badge/QQ-1906826229-blueviolet?style=for-the-badge&logo=tencent%20qq&color=eb1923)
+[WeChat](https://img.shields.io/badge/WeChat-I2ZAY01-blueviolet?style=for-the-badge&logo=wechat&color=7bb32e)
+
 </div>
 
 
@@ -25,22 +34,11 @@
 
 <div align="center">
 
-## ✉ Contact
-
-[![IZAYOINT0X80@GMAIL.COM)](https://img.shields.io/badge/email-izayoint0x80@gmail.com-blueviolet?style=for-the-badge&logo=gmail&color=d14836)][email]
-[![IZAYOI.CN](https://img.shields.io/badge/site-izayoi.cn-blueviolet?style=for-the-badge&logo=vercel&color=000000)][site]
-
-</div>
-
-
-<br/>
-
-
-<div align="left">
-
 ![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
 
 <div/>
 
 [email]: mailto:izayoint0x80
 [site]: http://izayoi.cn
+[zhihu]: https://www.zhihu.com/people/izayoi-28
+[bilibili]: https://space.bilibili.com/210892014
