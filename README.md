@@ -15,7 +15,7 @@
 
 ⌨ **试图编曲中、试图为开源社区贡献代码中、试图持续阅读中、试图掌控正循环中……**
 
-🎵 **Trance、Rock、Future Bass; Nhato、Taishi、OOR、五月天、IA**
+🎵 **Trance、Rock、Techno、Future Bass; Nhato、Taishi、OOR、五月天、IA**
 
 <br>
 
