@@ -15,7 +15,7 @@
 
 ⌨ ~~试图~~**编曲**~~中~~**也太难了、试图为开源社区贡献代码中、试图持续阅读中、试图掌控正循环中……**
 
-🎵 **Trance、Rock、Techno、Funk、Hardcore; Nhato、Taishi、Diverse System、OOR、3R2、五月天、IA**
+🎵 **Trance、Rock、Techno、Funk、Hardcore、前卫金属**
 
 <br>
 
