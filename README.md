@@ -15,8 +15,6 @@
 
 ⌨ ~~试图~~**编曲**~~中~~**也太难了、试图为开源社区贡献代码中、试图持续阅读中、试图掌控正循环中……**
 
-🎵 **Trance、Rock、Techno、Funk、Happycore、DnB、Metal**
-
 <br>
 
 ## PORTRAIT
@@ -43,7 +41,7 @@
 <div/>
 
 
-[email]: mailto:izayoint0x80
-[site]: http://izayoi.cn
+[email]: mailto:izayoint0x80@gmail.com
+[site]: https://izayoi.cn
 [zhihu]: https://www.zhihu.com/people/izayoi-28
 [bilibili]: https://space.bilibili.com/210892014
