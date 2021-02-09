@@ -1,6 +1,6 @@
 <div align="center">
   
-# IZAYOI is here 🧐
+## ABOUT
 
 [![SITE](https://img.shields.io/badge/site-izayoi.cn-blueviolet?style=for-the-badge&logo=vercel&color=000000)][site]
 ![QQ](https://img.shields.io/badge/QQ-1906826229-blueviolet?style=for-the-badge&logo=tencent%20qq&color=4fc3f7)
