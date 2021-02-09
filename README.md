@@ -43,5 +43,5 @@
 
 [email]: mailto:izayoint0x80@gmail.com
 [site]: https://izayoi.cn
-[zhihu]: https://www.zhihu.com/people/izayoi-28
+[zhihu]: https://www.zhihu.com/people/izay01
 [bilibili]: https://space.bilibili.com/210892014
