@@ -1,5 +1,9 @@
 <div align="center">
   
+<table border="0">
+<tr>
+<td>
+  
 ## ABOUT
 
 [![SITE](https://img.shields.io/badge/site-izayoi.cn-blueviolet?style=for-the-badge&logo=vercel&color=000000)][site]
@@ -7,7 +11,8 @@
 ![Telegram](https://img.shields.io/badge/Telegram-IZAY01-blueviolet?style=for-the-badge&logo=telegram&color=81d4fa)
 [![EMAIL](https://img.shields.io/badge/email-izayoint0x80@gmail.com-blueviolet?style=for-the-badge&logo=gmail&color=d14836)][email]
 
-<br>
+</td>
+<td>
 
 ## PORTRAIT
 
@@ -24,11 +29,24 @@
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
+</td>
+</tr>
+</table>
  
-## STATUS
+<table border="0">
+<tr>
+<td>
 
 ![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
+</td>
+<td>
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&layout=compact)
+
+</td>
+</tr>
+</table>
 
 <div/>
 
