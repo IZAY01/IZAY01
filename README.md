@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://izayoi.cn/">IZAYOI</a> ... 施工中 ...</h2>
 <p>Some thing</p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&theme=dark" />
+<img align="right" src="https://raw.githubusercontent.com/IZAY01/IZAY01/main/resources/nt.jpg" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 Some thing</li>
@@ -41,7 +41,20 @@
 </tr>
 </table>
 
+<table border="0">
+<tr>
+<td>
+
 ![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+
+</td>
+<td>
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&theme=dark&layout=compact)
+
+</td>
+</table>
 
 <div/>
 
