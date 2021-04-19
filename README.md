@@ -37,12 +37,12 @@
 <tr>
 <td>
 
-![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 </td>
 <td>
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&layout=compact)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&layout=compact&theme=dark)
 
 </td>
 </tr>
