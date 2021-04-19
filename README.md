@@ -51,6 +51,12 @@
 <div/>
 
 
+```
+~ $ whoami
+IZAY01
+```
+
+
 [email]: mailto:izayoint0x80@gmail.com
 [site]: https://izayoi.cn
 [zhihu]: https://www.zhihu.com/people/izay01
