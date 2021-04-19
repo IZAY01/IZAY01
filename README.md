@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://izayoi.cn/">IZAYOI</a> ... 施工中 ...</h2>
 <p>Some thing</p>
-<img align="right" src="https://raw.githubusercontent.com/IZAY01/IZAY01/main/resources/nt.jpg" />
+<img align="right" width="50%" src="https://raw.githubusercontent.com/IZAY01/IZAY01/main/resources/nt.jpg" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 Some thing</li>
