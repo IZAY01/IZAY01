@@ -1,5 +1,5 @@
-<h2>Hey 👋, I'm <a href="https://izayoi.cn/">IZAYOI</a> ... 施工中 ...</h2>
-<p>Some thing</p>
+<h2>Hey 👋, I'm <a href="https://izayoi.cn/">IZAYOI</a></h2>
+<p>やれやれ DA🌟ZE</p> <img src="https://visitor-badge.glitch.me/badge?page_id=IZAY01.IZAY01" alt="visitors">
 <img align="right" width="50%" src="https://raw.githubusercontent.com/IZAY01/IZAY01/main/img/dio.png" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
@@ -7,6 +7,7 @@
 <li>🎓 BIT CS</li>
 <li>🔍 Cyber security ... IoT security recently</li>
 <li>⌨️ Developer ... Trying to be a bug hunter as well</li>
+<li>👾 Former baby pwner ... a vegetable dog</li>
 </ul>
 
 <div align="center">
@@ -60,14 +61,6 @@
 </table>
 
 <div/>
-
-
-```shell
-~ $ whoami
-IZAY01
-```
-
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=IZAY01.IZAY01" alt="visitors"></p>
 
 
 [email]: mailto:izayoint0x80@gmail.com
