@@ -28,6 +28,21 @@
 </td>
 <td>
 
+![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+</td>
+</tr>
+</table>
+
+<table border="0">
+<tr>
+<td>
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&theme=dark&layout=compact)
+
+</td>
+<td>
+
 ## PORTRAIT
 
 ![C](https://img.shields.io/badge/C-a8b9cc.svg?&style=for-the-badge&logo=c&logoColor=black)
@@ -42,22 +57,6 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<table border="0">
-<tr>
-<td>
-
-![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&count_private=true&hide=prs&theme=dark)
-
-
-</td>
-<td>
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&theme=dark&layout=compact)
 
 </td>
 </table>
