@@ -1,7 +1,15 @@
 <h1 align=center>👋 Hi, I'm <a href="https://izayoi.cn/">IZAYOI</a></h2>
-<p>やれやれ DA🌟ZE <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=IZAY01.IZAY01" alt="visitors"></p> 
+
+<p align=center>
+  <a href="https://izayoint0x80.gitbook.io/notes-cs/">
+    <img align=left href="https://izayoint0x80.gitbook.io/notes-cs/" src="https://img.shields.io/badge/cs-notes-blue">
+  </a>
+  やれやれ DA🌟ZE
+  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=IZAY01.IZAY01" alt="visitors"></p> 
 <img align="right" width="50%" src="https://raw.githubusercontent.com/IZAY01/IZAY01/main/img/dio.png" />
+
 <h2>⚡️ 🄺🄾 🄽🄾 🄸🅉🄰🅈🄾🄸 🄳🄰</h2>
+
 <ul>
 <li>🔑 644152D8CB4A8DE1</li>
 <li>🎓 BIT CS</li>
@@ -11,6 +19,7 @@
 <li>🚷 人類補完計劃 ... core member</li>
 <li>👀 在暗处窥探着那些很厉害的家伙们</li>
 </ul>
+
 
 <div align="center">
   
