@@ -8,8 +8,8 @@
 <li>🔍 Cyber security ... IoT security recently</li>
 <li>⌨️ Developer ... Trying to be a bug hunter as well</li>
 <li>👾 Former baby pwner ... a vegetable dog</li>
-<li>🚷 <font color="#b71c1c" bgcolor="#3f4551">人類補完計劃</font> ... Core member</li>
-<li>👀 <font color="#888888">在暗处窥探着那些很厉害的家伙们</font> </li>
+<li>🚷 人類補完計劃 ... core member</li>
+<li>👀 在暗处窥探着那些很厉害的家伙们</li>
 </ul>
 
 <div align="center">
