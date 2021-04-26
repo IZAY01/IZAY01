@@ -1,7 +1,7 @@
 <h2>👋 Hi, I'm <a href="https://izayoi.cn/">IZAYOI</a></h2>
 <p>やれやれ DA🌟ZE <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=IZAY01.IZAY01" alt="visitors"></p> 
 <img align="right" width="50%" src="https://raw.githubusercontent.com/IZAY01/IZAY01/main/img/dio.png" />
-<h2>⚡️ A Few Quick Facts</h2>
+<h2>⚡️ 🄺🄾 🄽🄾 🄸🅉🄰🅈🄾🄸 🄳🄰</h2>
 <ul>
 <li>🔑 644152D8CB4A8DE1</li>
 <li>🎓 BIT CS</li>
