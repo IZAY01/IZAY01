@@ -1,10 +1,12 @@
 <h2>Hey 👋, I'm <a href="https://izayoi.cn/">IZAYOI</a> ... 施工中 ...</h2>
 <p>Some thing</p>
-<img align="right" width="50%" src="https://raw.githubusercontent.com/IZAY01/IZAY01/main/resources/nt.jpg" />
+<img align="right" width="50%" src="https://raw.githubusercontent.com/IZAY01/IZAY01/main/resources/dio.png" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 Some thing</li>
 <li>🔑 644152D8CB4A8DE1</li>
+<li>🎓 BIT CS</li>
+<li>🔍 Cyber security ... IoT security recently</li>
+<li>⌨️ Developer ... Trying to be a bug hunter as well</li>
 </ul>
 
 <div align="center">
