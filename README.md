@@ -42,7 +42,7 @@
 </td>
 <td>
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&theme=cobalt&layout=compact&hide_border=true&bg_color=00000000)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&theme=blueberry&layout=compact&hide_border=true&bg_color=00000000)
 
 </td>
 </table>
