@@ -22,7 +22,21 @@
 
 
 <div align="center">
-  
+ 
+<table border="0">
+<tr>
+<td>
+
+![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=blueberry&bg_color=00000000)
+
+</td>
+<td>
+
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&theme=cobalt&layout=compact&hide_border=true&bg_color=00000000)
+
+</td>
+</table>
+ 
 <table border="0">
 <tr>
 <td>
@@ -55,6 +69,9 @@
 </td>
 </tr>
 </table>
+
+
+</div>
 
 <details align="center">
   <summary><b>644152D8CB4A8DE1 🔐</b></summary>
@@ -114,21 +131,6 @@ uQPG7g==
   </pre>
 </details>
 
-<table border="0">
-<tr>
-<td>
-
-![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=blueberry&bg_color=00000000)
-
-</td>
-<td>
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&theme=cobalt&layout=compact&hide_border=true&bg_color=00000000)
-
-</td>
-</table>
-
-<div/>
 
 
 [email]: mailto:izayoint0x80@gmail.com
