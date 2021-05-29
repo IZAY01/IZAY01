@@ -40,11 +40,6 @@
 ![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=blueberry&bg_color=00000000)
 
 </td>
-<td>
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&theme=blueberry&layout=compact&hide_border=true&bg_color=00000000)
-
-</td>
 </table>
 </div>
 
