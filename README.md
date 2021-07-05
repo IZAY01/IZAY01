@@ -9,8 +9,8 @@
     <img align=left href="https://izayoint0x80.gitbook.io/notes-cs/" src="https://img.shields.io/badge/cs-notes-blue">
   </a>
   やれやれ DA🌟ZE
-  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=IZAY01.IZAY01" alt="visitors"></p> 
-<img align="right" width="50%" src="https://raw.githubusercontent.com/IZAY01/IZAY01/main/img/dio.png" />
+  <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=dev2ero.dev2ero" alt="visitors"></p> 
+<img align="right" width="50%" src="https://raw.githubusercontent.com/dev2ero/dev2ero/main/img/dio.png" />
 
 
 
@@ -37,12 +37,12 @@
 <tr>
 <td>
 
-![info](https://github-readme-stats.vercel.app/api?username=IZAY01&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=blueberry&bg_color=00000000)
+![info](https://github-readme-stats.vercel.app/api?username=dev2ero&show_icons=true&hide_border=true&count_private=true&hide=prs&theme=blueberry&bg_color=00000000)
 
 </td>
 <td>
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IZAY01&theme=blueberry&layout=compact&hide_border=true&bg_color=00000000)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev2ero&theme=blueberry&layout=compact&hide_border=true&bg_color=00000000)
 
 </td>
 </table>
