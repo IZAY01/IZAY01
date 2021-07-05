@@ -1,4 +1,4 @@
-<h1 align=center>👋 Hi, I'm <a href="https://izayoi.cn/">Dev Zero</a></h2>
+<h1 align=center>👋 Hi, I'm <a href="https://izayoi.cn/">dev2ero</a></h2>
 
 
 
